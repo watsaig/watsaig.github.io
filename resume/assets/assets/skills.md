@@ -1,0 +1,35 @@
+- Software
+    - Rust
+    - Python
+    - C++
+    - C
+    - MATLAB
+    - Qt
+    - Flutter
+- Data analysis / ML
+    - PyTorch
+    - Keras
+    - Numpy
+    - Scipy/sklearn/matplotlib
+    - Image processing (CellProfiler, ImageJ)
+- Mechanical / electrical CAD
+    - Fusion 360
+    - Inventor
+    - AutoCAD
+    - KiCAD
+- Biology 
+    - Mammalian cell culture
+    - Fluorescence microscopy
+    - Microfluidics
+- Microfabrication
+    - Photolithography
+    - Wet and dry etching
+    - Scanning electron microscopy
+    - Profilometry
+- Fabrication
+    - Milling
+    - CNC routing
+    - Soldering
+    - Laser cutting
+    - 3D printing
+
